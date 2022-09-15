@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "dependencies": [
+    { "source": "https://github.com/rust-lang/rust" },
+    { "source": "https://github.com/rust-lang/cargo" },
+    { "source": "https://github.com/http-rs/surf" },
+    { "source": "https://github.com/http-rs/tide" },
+    { "source": "https://github.com/dalek-cryptography/ed25519-dalek" },
+    { "source": "https://github.com/clap-rs/clap" },
+    { "source": "https://github.com/dtolnay/anyhow" },
+    { "source": "https://github.com/dtolnay/thiserror" },
+    { "source": "https://github.com/RustCrypto/AEADs" },
+    { "source": "https://github.com/chronotope/chrono" },
+    { "source": "https://github.com/rust-random/rand" },
+    { "source": "https://github.com/marshallpierce/rust-base64" },
+    { "source": "https://github.com/serde-rs/serde" },
+    { "source": "https://github.com/BLAKE3-team/BLAKE3" }
+  ]
+}
